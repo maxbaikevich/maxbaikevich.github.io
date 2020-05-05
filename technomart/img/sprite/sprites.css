@@ -1,0 +1,124 @@
+.cart-icon, .fb-icon, .vk-icon, .insta-icon, .icon-bookmark, .icon-login, .icon-phone, .icon-search, .checkbox-off, .checkbox-on, .radio-off, .radio-on, .icon-right-small, .icon-user, .icon-user-black, .icon-login-2, .icon-home, .icon-search-red, .icon-logout-копияt, .icon-logout667{
+	background: url(sprites.png) no-repeat;
+}
+
+.cart-icon{
+	background-position: -19px -18px ;
+	width: 15px;
+	height: 15px;
+}
+
+.fb-icon{
+	background-position: -68px -17px ;
+	width: 12px;
+	height: 22px;
+}
+
+.vk-icon{
+	background-position: -113px -22px ;
+	width: 26px;
+	height: 15px;
+}
+
+.insta-icon{
+	background-position: -164px -19px ;
+	width: 21px;
+	height: 21px;
+}
+
+.icon-bookmark{
+	background-position: -218px -20px ;
+	width: 14px;
+	height: 16px;
+}
+
+.icon-login{
+	background-position: -266px -20px ;
+	width: 20px;
+	height: 17px;
+}
+
+.icon-phone{
+	background-position: -314px -20px ;
+	width: 19px;
+	height: 19px;
+}
+
+.icon-search{
+	background-position: -362px -20px ;
+	width: 17px;
+	height: 17px;
+}
+
+.checkbox-off{
+	background-position: -414px -16px ;
+	width: 23px;
+	height: 23px;
+}
+
+.checkbox-on{
+	background-position: -462px -16px ;
+	width: 27px;
+	height: 23px;
+}
+
+.radio-off{
+	background-position: -511px -13px ;
+	width: 25px;
+	height: 25px;
+}
+
+.radio-on{
+	background-position: -562px -15px ;
+	width: 25px;
+	height: 25px;
+}
+
+.icon-right-small{
+	background-position: -615px -24px ;
+	width: 8px;
+	height: 12px;
+}
+
+.icon-user{
+	background-position: -16px -66px ;
+	width: 20px;
+	height: 18px;
+}
+
+.icon-user-black{
+	background-position: -65px -66px ;
+	width: 20px;
+	height: 18px;
+}
+
+.icon-login-2{
+	background-position: -111px -66px ;
+	width: 20px;
+	height: 17px;
+}
+
+.icon-home{
+	background-position: -174px -69px ;
+	width: 14px;
+	height: 12px;
+}
+
+.icon-search-red{
+	background-position: -218px -68px ;
+	width: 17px;
+	height: 17px;
+}
+
+.icon-logout-копияt{
+	background-position: -12px -112px ;
+	width: 20px;
+	height: 17px;
+}
+
+.icon-logout667{
+	background-position: -61px -114px ;
+	width: 21px;
+	height: 17px;
+}
+
