@@ -29,6 +29,9 @@ body {
 .main-nav-item {
 	margin-right: 30px;
 	margin-bottom: 100px;
+	display: flex;
+	flex-direction: column-reverse;
+	position: relative;
 }
 
 .main-nav-item:nth-child(3) {
@@ -53,16 +56,54 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	box-sizing: border-box;
-	
+
 }
+
 .mai-nav-tz__title {
 	margin: 0;
 	text-align: center;
 
 }
+
 .mai-nav-tz--mod {
 	margin-right: 0;
 }
+
 .hedline {
 	margin-top: 20px;
+}
+
+.link-github {
+	position: absolute;
+
+}
+
+.btn-github {
+	display: block;
+	position: absolute;
+	bottom: 10px;
+	font-weight: 700;
+	width: 200px;
+	color: white;
+	margin-bottom: 20px;
+	padding: .8em 1em calc(.8em + 3px);
+	text-decoration: none;
+	border-radius: 3px;
+	background: rgb(64, 199, 129);
+	box-shadow: 0 -3px rgb(53, 167, 110) inset;
+	text-align: center;
+	transition: 0.2s;
+	margin-left: 60px;
+}
+
+.btn-github:hover {
+	background: rgb(53, 167, 110);
+}
+
+.btn-github:active {
+	background: rgb(33, 147, 90);
+	box-shadow: 0 3px rgb(33, 147, 90) inset;
+}
+.btn-github--mod {
+	bottom: none;
 }
